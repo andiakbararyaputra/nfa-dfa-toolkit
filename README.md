@@ -7,6 +7,10 @@ Program konsol Java untuk mata kuliah **Teori Otomata dan Bahasa**. Program ini 
 - Mengonversi **NFA → DFA** menggunakan metode **subset construction**, lengkap dengan langkah-langkahnya.
 - Menguji apakah sebuah **string diterima atau ditolak** oleh NFA maupun DFA, beserta jejak prosesnya.
 
+## Preview
+
+![NFA-DFA Toolkit Console Preview](nfa-dfa-toolkit-preview.png)
+
 ## Struktur Proyek
 
 ```
